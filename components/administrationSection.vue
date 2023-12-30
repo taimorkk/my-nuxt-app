@@ -9,17 +9,17 @@
       <div class="w-1/2 pl-8">
         <h2>Dosing & Administration</h2>
         <div class="section flex bg-white h-fit my-3 rounded-2xl">
-          <img src="`/_nuxt/assets/drop.jpg`" class="h-16" alt="" />
+          <img src="../assets/drop.jpg" class="h-16" alt="" />
           ZIMED® PF's recommended dosage is one drop in the affected eye(s) once
           daily in the evening.
         </div>
         <div class="section flex bg-white h-fit my-3 rounded-2xl">
-          <img src="`/_nuxt/assets/drop.jpg`" class="h-16" alt="" />
+          <img src="../assets/drop.jpg" class="h-16" alt="" />
           ZIMED® PF is a 100% Preservative - free formula dispensed in a
           multi-dose bottle.
         </div>
         <div class="section flex bg-white h-fit my-3 rounded-2xl">
-          <img src="`/_nuxt/assets/drop.jpg`" class="h-16" alt="" />
+          <img src="../assets/drop.jpg" class="h-16" alt="" />
           ZIMED® PF is stored between 15 °C and 25 °C, no refrigeration needed.
         </div>
       </div>

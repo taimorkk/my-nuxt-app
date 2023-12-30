@@ -13,7 +13,7 @@
             class="icon-section bg-primary mx-auto rounded-full w-28 h-28 p-6"
           >
             <img
-              :src="`/_nuxt/assets/${item.icon}`"
+              :src="getImageUrl(item.icon)"
               alt="Icon"
               class="w-14 h-14 mb-2 mx-auto"
             />
@@ -69,6 +69,10 @@ const items = ref([
   },
   // Add more items as needed
 ]);
+
+function getImageUrl(icon) {
+  return new URL(`../assets/${icon}`, import.meta.url).href;
+}
 </script>
 <style lang="scss" scoped>
 h1 {

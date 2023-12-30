@@ -7,7 +7,7 @@
     <el-divider class="yellow" />
     <div class="p-8 rounded-3xl mt-2">
       <div class="text-center">
-        <img class="mx-auto" src="`/_nuxt/assets/footer-mouse.svg`" alt="" />
+        <img class="mx-auto" src="../assets/footer-mouse.svg" alt="" />
         <div class="info-section flex">
           <div class="w-1/3 ml-14 section-one">
             <h1 class="text-white">Zimed® PF</h1>
@@ -40,7 +40,7 @@
             </p>
           </div>
           <div class="w-1/3 logo-section">
-            <img src="`/_nuxt/assets/blue-grey.png`" alt="" />
+            <img src="../assets/blue-grey.png" alt="" />
           </div>
         </div>
       </div>

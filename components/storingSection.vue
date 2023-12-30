@@ -1,7 +1,7 @@
 <template>
   <div class="mx-auto w-5/6 bg-white storing-section mb-40">
     <div class="py-8 flex justify-around">
-      <img :src="`/_nuxt/assets/storing.png`" alt="" />
+      <img src="../assets/storing.png" alt="" />
       <div class="w-1/2">
         <h1 class="mb-12">Storing Zimed® PF</h1>
         <p>
